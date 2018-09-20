@@ -3,3 +3,4 @@ console.log("昨夜のコンdroit à la  des intérêtsDas Brot ist nicht schön
 const oops = "test updated";
 const why = "should be here";
 const hello = "there";
+const bye = "for now";

@@ -4,3 +4,4 @@ var y = "hello";
 var z = 'hey';
 var sym1 = Symbol('foo');
 var sym2 = Symbol('bar');
+var sym3 = Symbol('yo');
