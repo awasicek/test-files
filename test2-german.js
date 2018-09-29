@@ -1,5 +1,5 @@
 var test2;
-const mod = "mod";
+const mod = "modified";
 console.log("Frau Meier geht heute in den Supermarkt. Ihr Mann ist nicht zu Hause und sie nimmt den Bus. An der Haltestelle trifft sie ihre Freundin Frau Schmidt. Frau Schmidt will auch in den Supermarkt.\n" +
     "\n" +
     "Frau Müller: “Das ist super! Dann fahren wir zusammen!”.\n" +
