@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b1055b8-aff6-4d18-84e4-ee2a86795b40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Tealium.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tealium.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test5-multiple_foreign_chars.js" beforeDir="false" afterPath="$PROJECT_DIR$/test5-multiple_foreign_chars.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -59,19 +60,20 @@
           <entry key="JavaScript" value="228" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test1-non_standard_chars.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_afterLoadRules.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,11 +146,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test5-multiple_foreign_chars.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state>
+              <caret selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tealium.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -196,6 +207,7 @@
         <option value="$PROJECT_DIR$/test2-german.js" />
         <option value="$PROJECT_DIR$/test1-non_standard_chars.js" />
         <option value="$PROJECT_DIR$/test5-multiple_foreign_chars.js" />
+        <option value="$PROJECT_DIR$/Tealium.js" />
       </list>
     </option>
   </component>
@@ -258,12 +270,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537208084226</updated>
       <workItem from="1537208085787" duration="7265000" />
-      <workItem from="1538415152238" duration="722000" />
+      <workItem from="1538415152238" duration="859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7987000" />
+    <option name="totallyTimeSpent" value="8124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1375" height="937" extended-state="0" />
@@ -486,8 +498,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test5-multiple_foreign_chars.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tealium.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
