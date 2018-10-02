@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b1055b8-aff6-4d18-84e4-ee2a86795b40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tealium.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tealium.js" afterDir="false" />
-    </list>
+    <list default="true" id="7b1055b8-aff6-4d18-84e4-ee2a86795b40" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,6 +43,7 @@
     <session id="1288566155">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -269,12 +268,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537208084226</updated>
       <workItem from="1537208085787" duration="7265000" />
-      <workItem from="1538415152238" duration="981000" />
+      <workItem from="1538415152238" duration="1171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8246000" />
+    <option name="totallyTimeSpent" value="8436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1375" height="937" extended-state="0" />
