@@ -18,3 +18,34 @@ console.log("Frau Meier geht heute in den Supermarkt. Ihr Mann ist nicht zu Haus
     "Frau Meier: “Orangensaft habe ich zu Hause. Aber ich brauche fünf Flaschen Mineralwasser.”\n" +
     "\n" +
     "Frau Schmidt kauft nur drei Flaschen Mineralwasser. Frau Meier und Frau Schmidt gehen an die Kasse. Dann gehen sie ins Café. Frau Schmidt trinkt eine Tasse Tee. Frau Meier mag lieber Kaffee. Sie bestellen zwei Stücke Schokoladenkuchen. Sie fahren mit dem Bus nach Hause.\n");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var hey ="LOOK AT ME!";

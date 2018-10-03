@@ -6,3 +6,35 @@ Kanji: 昨夜, 最高
 Rōmaji: sakuya no konsāto wa saikō deshita.
 
 slight modification7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var hey ="LOOK AT ME!";
