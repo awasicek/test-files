@@ -1,3 +1,5 @@
-const readySoon = "engineering is still working on this file";
+const readyNow = "freshly merged into master";
 
-// TODO get ready for marketing
+console.log("The Tealium Universal Data Hub is the industry’s most comprehensive and flexible approach"
+			+ "to collect and deliver customer data. Manage tags, APIs, and integrate with over"
+			+ "1,000 vendors.");

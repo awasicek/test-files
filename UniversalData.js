@@ -1,1 +1,1 @@
-let x = "we should check to see if this is the latest build from our developers, don't you think?";
+console.log("Automatic syncing of your drafts to pull in the latest code from GitHub.");

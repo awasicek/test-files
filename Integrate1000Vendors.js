@@ -1,1 +1,3 @@
-// TODO Sync code from a GitHub repo directly to a JavaScript Code extension.
+let anEnterpriseSolution = true;
+
+console.log("developers just pushed this up");
