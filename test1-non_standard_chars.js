@@ -22,7 +22,7 @@ const mod = 'modified';
 
 
 const m = "mult commits";
-console.warn("1");
+console.warn("TADA!");
 
 
 
