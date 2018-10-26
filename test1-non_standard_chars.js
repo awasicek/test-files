@@ -26,10 +26,4 @@ const mod = 'modified';
 
 
 
-
-
-
-
-
-
 var hey ="LOOK AT ME!";
